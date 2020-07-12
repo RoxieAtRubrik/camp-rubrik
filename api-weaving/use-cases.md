@@ -24,6 +24,4 @@ The use cases for a published, open, and documented API are endless. A few commo
   <tbody></tbody>
 </table>
 
-You have now completed the API Weaving badge and the entire Camp Rubrik Field Guide - congratulations!  
-
-
+You have now completed the API Weaving badge and the entire Camp Rubrik Field Guide - congratulations!

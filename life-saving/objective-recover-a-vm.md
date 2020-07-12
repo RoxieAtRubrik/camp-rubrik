@@ -47,4 +47,3 @@ By serving as an online repository for VM data during the recovery process, Rubr
   </thead>
   <tbody></tbody>
 </table>
-
