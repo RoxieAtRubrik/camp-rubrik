@@ -5,7 +5,7 @@ In this lab, you will perform the following tasks:
 * Live Mount a SQL Server Database
 * Unmount a SQL Server Database
 
-This section presents new recovery methods that take database management to another level. The instructions focus on Microsoft SQL, however, please note that similar functionality \(database Live Mount\) is available for Oracle.
+This section presents new recovery methods that take database management to another level. The instructions focus on Microsoft SQL, however, please note that similar functionality (database Live Mount) is available for Oracle.
 
 ## **Getting Started**
 
