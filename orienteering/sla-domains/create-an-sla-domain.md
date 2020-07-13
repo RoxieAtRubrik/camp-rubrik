@@ -10,7 +10,8 @@ To create an SLA Domain:
 
 Local Domain - an SLA Domain that is created on the local Rubrik cluster.
 
-Remote Domain - an SLA Domain that was created on a Rubrik cluster other than the local Rubrik cluster. Remote SLA Domains appear on a local Rubrik cluster when the local Rubrik cluster is a replication target.</td>
+Remote Domain - an SLA Domain that was created on a Rubrik cluster other than the local Rubrik cluster. Remote SLA Domains appear on a local Rubrik cluster when the local Rubrik cluster is a replication target.
+   </td>
   </tr>
 </table>
 
