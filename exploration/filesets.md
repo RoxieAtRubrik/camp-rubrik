@@ -4,63 +4,29 @@ A fileset defines a set of files and folders on a Linux host, a Windows host, or
 
 To create a fileset:
 
-
-
 1. In the Rubrik UI, on the left-side menu, click **Servers & Apps** > **Windows Hosts**. The Windows Hosts page appears.
-2. Select **Filesets **and then **Add Fileset**. 
-
-
-
-<p id="gdcalert42" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image42.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert43">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+2. Select **Filesets **and then **Add Fileset**.
 
 ![alt_text](images/image42.png "image_tooltip")
 
-
-
-
 3. The Add Fileset dialog appears. Enter the following values:
-*   Fileset Name: `Camp Rubrik Fileset`
-*   Include: `C:\Users\**`
-*   Exclude: `C:\Users\AppData\**`
+    
+    * Fileset Name: `Camp Rubrik Fileset`
+    * Include: `C:\Users\**`
+    * Exclude: `C:\Users\AppData\**`
 
     The fileset should resemble the following image. 
 
-
-
-
-<p id="gdcalert43" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image43.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert44">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image43.png "image_tooltip")
-
-
-
 
 4. Click **Add**.
 5. Return to the **Windows Hosts** tab, select the `sql-s1` workload, and then choose **Manage Protection**.
 
-
-
-<p id="gdcalert44" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image44.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert45">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image44.png "image_tooltip")
-
-
-
 
 6. Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step. 
 
-
-
-<p id="gdcalert45" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image45.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert46">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image45.png "image_tooltip")
-
-
-
 
 7. Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
 

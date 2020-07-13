@@ -4,13 +4,14 @@ The Rubrik Backup Service (RBS) provides the Rubrik cluster application-level vi
 
 The Rubrik Backup Service software can be downloaded directly from the Rubrik cluster, or the software can be downloaded once and copied to the appropriate server as needed.
 
-
-```
-Trail Map:
+<table>
+  <tr>
+   <td><strong>Trail Map:</strong>
 
 The Rubrik Backup Service software can only be used with the Rubrik cluster from which the software is obtained. Each Rubrik cluster generates a copy of the Rubrik Backup Service software that includes authentication and encryption information specific to that Rubrik cluster. This method ensures that the Rubrik cluster and a hosted deployment of the Rubrik Backup Service can reliably authenticate each other and encrypt data-in-flight.
-```
-
+   </td>
+  </tr>
+</table>
 
 After upgrading the Rubrik cluster software, the Rubrik cluster automatically upgrades the Rubrik Backup Service software on all protected server hosts. Upgrades do NOT require a reboot or a server restart.
 
