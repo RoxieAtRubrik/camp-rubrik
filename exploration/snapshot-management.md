@@ -12,13 +12,13 @@ In each of these cases the data object does not have a retention policy to contr
 
 The Snapshot Management page may be used to initiate management tasks for unmanaged objects and consists of two levels: data source level and object level. The data source level provides information about the virtual machines, applications, and filesets that are the source of the unmanaged object data. The object level provides information about the individual unmanaged objects of a selected data source.
 
-1. On the left-side menu, click **Snapshot Management**.
+On the left-side menu, click **Snapshot Management**.
 
    The data source level of the Snapshot Retention page appears.
 
 ![](https://lh5.googleusercontent.com/4PBOLT7RNTsExSxCBH9n4g1FkmwYTL6V4ILD0k1yW9bRsPiTL1g0g2QHjG0bhbNCNlK69N_Pfbe__q5KmIu8X5gZIuCFzmNhmQfqclWr59gI34_RoraFy04uvJPAJ6uYP4ZEL7i7)
 
-1. In the **Name** column, select the name of a data source.
+In the **Name** column, select the name of a data source.
 
    The local host page or Recovery Points card page appears.
 
