@@ -6,31 +6,11 @@ Rubrik orchestrates end-to-end data lifecycle management. An SLA Domain can be a
 
 SLA Domains represent an easy-to-configure container for data protection policies. The following table provides an overview of those policies.
 
-<table>
-  <tr>
-   <td><strong>Policy</strong>
-   </td>
-   <td><strong>Description</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Snapshot, backup frequency, and retention
-   </td>
-   <td>Directs the Rubrik cluster when to create point-in-time snapshots, backups of data sources, and how long to keep the data.
-   </td>
-  </tr>
-  <tr>
-   <td>Replication
-   </td>
-   <td>Directs the Rubrik cluster to send replicas of source snapshots and backups to a target Rubrik cluster. Also defines the maximum time to keep the replica.
-   </td>
-  </tr>
-  <tr>
-   <td>Archiving
-   </td>
-   <td>Directs the Rubrik cluster to move snapshot and backup data to a separate data storage system for long-term retention.
-   </td>
-  </tr>
-</table>
+| **Policy** | **Description** |
+| :--- | :--- |
+| Snapshot, backup frequency, and retention | Directs the Rubrik cluster when to create point-in-time snapshots, backups of data sources, and how long to keep the data. |
+| Replication | Directs the Rubrik cluster to send replicas of source snapshots and backups to a target Rubrik cluster. Also defines the maximum time to keep the replica. |
+| Archiving | Directs the Rubrik cluster to move snapshot and backup data to a separate data storage system for long-term retention. |
 
 Rubrik provides Gold, Silver, and Bronze SLA Domains by default for your immediate use. Custom SLA Domains can be quickly and easily created to meet the data protection and retention requirements of different groups of virtual machines, applications, and file system hosts.
+

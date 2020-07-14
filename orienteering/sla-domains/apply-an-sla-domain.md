@@ -1,38 +1,38 @@
 # Apply an SLA Domain
 
-An SLA Domain may be applied at a broad level - such as the management server (e.g. vCenter Server), folder, host, cluster, or tag. This enables newly provisioned workloads to automatically inherit protection from a higher level resource. Alternatively, an SLA Domain may be granularly applied per object to achieve specific data protection objectives.
+An SLA Domain may be applied at a broad level - such as the management server \(e.g. vCenter Server\), folder, host, cluster, or tag. This enables newly provisioned workloads to automatically inherit protection from a higher level resource. Alternatively, an SLA Domain may be granularly applied per object to achieve specific data protection objectives.
 
 To do so:
 
-1. In the web UI, on the left-side menu, click **Virtual Machines** > **vSphere VMs**. The vSphere VMs page appears, with the VMs tab selected.
-
+1. In the web UI, on the left-side menu, click **Virtual Machines** &gt; **vSphere VMs**. The vSphere VMs page appears, with the VMs tab selected.
 2. Select **Clusters/Hosts**. The Clusters/Hosts tab appears.
 
-![alt_text](images/image14.png "image_tooltip")
+![](https://lh4.googleusercontent.com/4Y9vKp6xfICeO8yEu9dyl15GAUqnDvXYbxEC5V8KMgTQy8pcMP_XrbwW-mAScUbc9jSA9ZQyG9d8WKxi2rtuMCgsHlyblpplxl-JWmOn2Zi3kL0Z_-RlJPSI1BCb_lJk6Qd2Y-jH)
 
-3. Select the checkbox in front of the vCenter Server.
+1. Select the checkbox in front of the vCenter Server.
 
    Notice that the **Manage Protection** button in the upper right-hand corner illuminates and is now clickable. Do not assign an SLA Domain at this time.
 
-![alt_text](images/image15.png "image_tooltip")
+![](https://lh5.googleusercontent.com/1oIEr_S00EnfMThpnmkvJqXA9fsdbmL6w-oCb7lGlTOiL5vs3l6QxOpUg39V-wz8iPCvjbpFwKR0FgX9ZiLY3-XXW_qmqfMUyDuHb_nd2-ElMor86RLUHewwn8wb4vU87bzYkcwm)
 
 To place a granular policy on an individual object:
 
-4. Select the **VMs** tab. The **VMs** page appears. Search for your Linux virtual machine running on vSphere.  Type in `ubuntu` in the **Search by Name** field to locate the assigned Linux VM (`ubuntu14-vm1`).
+1. Select the **VMs** tab. The **VMs** page appears. Search for your Linux virtual machine running on vSphere.  Type in `ubuntu` in the **Search by Name** field to locate the assigned Linux VM \(`ubuntu14-vm1`\).
 
-![alt_text](images/image16.png "image_tooltip")
+![](https://lh6.googleusercontent.com/OVKmVWpu4nEBZEKrZIt7yMawI-gOnBUNYatIBXYYDFd1NAn-CsywDyPT1OXMq4XNfMAHLmadoCf21UtxgVnr0ZOm5R44JyLwTFh8IOXwcyIyXNQXpuBUP8mTNThmGsZ19djNX6ym)
 
-5. Select the Ubuntu virtual machine and click **Manage Protection**. 
-6. Find and select the previously created `Camp Rubrik` SLA Domain and press **Next**.
+1. Select the Ubuntu virtual machine and click **Manage Protection**. 
+2. Find and select the previously created `Camp Rubrik` SLA Domain and press **Next**.
 
-![alt_text](images/image17.png "image_tooltip")
+![](https://lh6.googleusercontent.com/wXuOvTXm18Y8gmVyHI3HywhE9rMmyNZ-Q1QKd4jQlJ-pd5SQNExBmKbyCkKTpm-DQwUyQx_69VMSkFG6quwoGuEtIxS6RJiZsNdyFOBap_sivC5aCNnZIs8DHLjD2GlvzwUSJiSp)
 
-7. Review the retention change caused by changing the SLA Domain.
+1. Review the retention change caused by changing the SLA Domain.
 
-![alt_text](images/image18.png "image_tooltip")
+![](https://lh6.googleusercontent.com/4D5t8an4lX-8d0EgxIBU67LPROPQgvsZaFnPdi0VY8pXTJUWMx_mDxxDbGvcHiCVBEhgf6Y5PQPKyO6W5IqT4UDMVDdep3mlz96_-r_nkrnlfEZWconE5263_Iu_sSY3FT68EEV8)
 
-8. Click **Submit**.
+1. Click **Submit**.
 
    The VM will soon update to reflect it is protected by the selected SLA Domain.
 
 You have now completed the Orienteering badge!
+

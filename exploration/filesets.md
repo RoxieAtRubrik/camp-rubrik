@@ -4,30 +4,31 @@ A fileset defines a set of files and folders on a Linux host, a Windows host, or
 
 To create a fileset:
 
-1. In the Rubrik UI, on the left-side menu, click **Servers & Apps** > **Windows Hosts**. The Windows Hosts page appears.
-2. Select **Filesets **and then **Add Fileset**.
+1. In the Rubrik UI, on the left-side menu, click **Servers & Apps** &gt; **Windows Hosts**. The Windows Hosts page appears.
+2. Select **Filesets** and then **Add Fileset**.
 
-![alt_text](images/image42.png "image_tooltip")
+![](https://lh3.googleusercontent.com/y1Z9Nr0GFjEFZoVvc7WrgTCJk6zIeSp4_pbf8vWVp7o-Tl6qz52IqxF7AeJM-NEnS39TIbwVjsX0yVmTfGMW9_w14g1YAOhWl9tfpFFK_HTImmwkQ0nl7qqXg29cCxKzsAwIGtoM)
 
-3. The Add Fileset dialog appears. Enter the following values:
-    
-    * Fileset Name: `Camp Rubrik Fileset`
-    * Include: `C:\Users\**`
-    * Exclude: `C:\Users\AppData\**`
+1. The Add Fileset dialog appears. Enter the following values:
 
-    The fileset should resemble the following image. 
+   * Fileset Name: `Camp Rubrik Fileset`
+   * Include: `C:\Users\**`
+   * Exclude: `C:\Users\AppData\**`
 
-![alt_text](images/image43.png "image_tooltip")
+   The fileset should resemble the following image.
 
-4. Click **Add**.
-5. Return to the **Windows Hosts** tab, select the `sql-s1` workload, and then choose **Manage Protection**.
+![](https://lh6.googleusercontent.com/x2hWBEAek1xFqEctqZAAfyLp1UvudfE1sCabH_ebatW4X6EJCU3DV4GVTbKRulSUVq6R1-CwvOG2KI5fMwO63Nprtvt7BexIOx3ZMK6O0D6DWjfHxfGXyzVMdijEjBoN_sJc7yHZ)
 
-![alt_text](images/image44.png "image_tooltip")
+1. Click **Add**.
+2. Return to the **Windows Hosts** tab, select the `sql-s1` workload, and then choose **Manage Protection**.
 
-6. Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step. 
+![](https://lh4.googleusercontent.com/HLjhF3QxzeAeu_1M6c72laBni59K26gCGQaBzW4GeBQoKshyGIzhSO0vaFxQ_QzrlTUlC_6tRk5FeHTxVT1XFeoIetCIsjbJklY7GPC1DzxAqluBp-i7mcMsZBfUDjXo5RU2RqpE)
 
-![alt_text](images/image45.png "image_tooltip")
+1. Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step. 
 
-7. Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
+![](https://lh6.googleusercontent.com/0D_Hf8H0-_jm8Rl5gpqJ8pt1cOwpw8_0rveQ-2vSvti_4NtVS_4Y3yN-5r-dkaerj8PbBDkprWe2apuMHx-VMXyuvizI_Pf2lArwlJic4ZLgq3BKdcr6r7wN83ZNjQURj5jeAfHT)
+
+1. Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
 
 A host or share can be paired with several different filesets, with each host fileset or share fileset protecting a different set of data. Each of the host filesets or share filesets can be assigned to a different SLA Domain, permitting different levels of protection for each set of data.
+

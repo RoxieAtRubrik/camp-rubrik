@@ -4,11 +4,12 @@ CloudOut is Rubrik’s ability to cost effectively archive data to the cloud for
 
 Rubrik supports a number archival location types, including:
 
-*   Amazon S3
-*   Amazon Glacier
-*   Google Cloud Platform 
-*   Azure
-*   Object Store
-*   NFS
+* Amazon S3
+* Amazon Glacier
+* Google Cloud Platform 
+* Azure
+* Object Store
+* NFS
 
 A Rubrik cluster can have multiple archival locations and types. The archival policy of an SLA Domain can only specify one archival location but each SLA Domain can specify a different archival location.
+

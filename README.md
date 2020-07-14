@@ -13,3 +13,4 @@ Throughout the guide you will find boxes labeled “Trail Map.” These callouts
 If at any point you get stuck or want to learn more information, let a Guidance Counselor know and a staff member will assist you.
 
 Without further ado, let’s dive in.
+
