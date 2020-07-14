@@ -44,7 +44,9 @@ This may take about a minute to appear.
 3. \(Optional\) If you return to the vSphere Web Client, you will notice that the Live Mount VM has been removed from the vCenter Server inventory.
 
 {% hint style="info" %}
-**Trail Map:** The Rubrik cluster sets the protection state of the Live Mount recovered virtual machine to Do Not Protect. To protect the new virtual machine, add it to an SLA Domain, or remove the individual assignment of Do Not Protect to permit it to inherit protection.
+**Trail Map:** 
+
+The Rubrik cluster sets the protection state of the Live Mount recovered virtual machine to Do Not Protect. To protect the new virtual machine, add it to an SLA Domain, or remove the individual assignment of Do Not Protect to permit it to inherit protection.
 {% endhint %}
 
 Live Mount can be used to near-instantly instantiate identical environments in moments in isolated or test environments. You can also test an application upgrade, failure scenario, or other use cases using your backup storage. When you are done, you simply throw it away.

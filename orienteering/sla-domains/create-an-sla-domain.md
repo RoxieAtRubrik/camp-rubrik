@@ -5,7 +5,11 @@ To create an SLA Domain:
 1. On the left-hand navigation pane, select **SLA Domains &gt; Local Domains**.
 
 {% hint style="info" %}
-**Trail Map:** Local Domain - an SLA Domain that is created on the local Rubrik cluster. Remote Domain - an SLA Domain that was created on a Rubrik cluster other than the local Rubrik cluster. Remote SLA Domains appear on a local Rubrik cluster when the local Rubrik cluster is a replication target.
+**Trail Map:** 
+
+_Local Domain_ - an SLA Domain that is created on the local Rubrik cluster. 
+
+_Remote Domain_ - an SLA Domain that was created on a Rubrik cluster other than the local Rubrik cluster. Remote SLA Domains appear on a local Rubrik cluster when the local Rubrik cluster is a replication target.
 {% endhint %}
 
 1. In the upper right-hand corner, click the blue **+** icon.
