@@ -11,4 +11,3 @@ Use Rubrik to stay informed and laser-focused on the horizon ahead when protecti
 ## **Getting Started**
 
 Envision is Rubrik’s feature for custom reporting that is useful for day-to-day operations and management. System, Activities, and Notifications provide insight around specific tasks and management activities performed by the Rubrik cluster.
-
