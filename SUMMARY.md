@@ -33,11 +33,11 @@
 
 * [Objective: Manage Databases](pioneering/objective-manage-databases.md)
 * [SQL Live Mount](pioneering/sql-live-mount.md)
-* [Oracle](pioneering/untitled.md)
+* [Oracle](pioneering/oracle.md)
 
 ## Nephology
 
-* [Objective: Unleash the Power of Hybrid Cloud](nephology/untitled.md)
+* [Objective: Unleash the Power of Hybrid Cloud](nephology/objective-unleash-the-power-of-hybrid-cloud.md)
 * [CloudOut](nephology/cloudout/README.md)
   * [Adding a Cloud Archive Location](nephology/cloudout/adding-a-cloud-archive-location.md)
 * [CloudOn](nephology/cloudon/README.md)
@@ -50,7 +50,7 @@
 * [Objective: Work with Envision Reporting, Activities, and Notifications](signs-signals-and-codes/objective-work-with-envision-reporting-activities-and-notifications.md)
 * [System](signs-signals-and-codes/system.md)
 * [Envision](signs-signals-and-codes/envision.md)
-* [Activities & Notifications](signs-signals-and-codes/untitled.md)
+* [Activities & Notifications](signs-signals-and-codes/activities-notifications.md)
 
 ## API Weaving
 
