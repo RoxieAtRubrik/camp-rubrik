@@ -6,7 +6,7 @@ Click on the gear icon located on the top right bar of the web UI.
 
 The Settings menu appears.
 
-![](../../.gitbook/assets/screen-shot-2020-07-18-at-11.52.11.png)
+![](https://lh4.googleusercontent.com/08KEhZ0Zetym-uy2L-_qqJn2PPrxZFBfyciZf0fLO6b36GSiENyhrIrDovsV54TTCQ_-iD7fsY2VIXChk5_N-b1XYotEGfzesEpZ5ZTyRaxd9t0cu4UFk3rjtr7lwZzGxx7_Stpb)
 
 From the **Settings** menu, select **Archival Locations**.
 
