@@ -7,7 +7,7 @@ Once connectivity has been established to AWS and/or Azure, the **Overview** pan
 A **Configure Cloud Conversion** dialog will appear, in which you may toggle the choice between:
 
 * Auto Convert Latest Snapshot - Keep One
-* Auto Convert Latest Snapshot - Keep All
+* Auto Convert Latest Snapshot - Keep All 
 
 ![](https://lh5.googleusercontent.com/pPSchgKmUx5-IABuuH3IeqGeIrAzeJhu3EGwDppJdzpHd39dmBbziE6xoAeYNUArPTSTEjxFyFjNrX0ec9VZ4qU-ya6CZLfxwfXn0OnaP40L2qKytGJNQY1j6Mdvbqck9Xy-VP43)
 

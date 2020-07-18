@@ -18,8 +18,7 @@ Select the checkbox next to **Remove virtual network devices**. This option shou
 
 Click **Mount**.
 
- The Rubrik cluster mounts the snapshot on the selected ESXi host using the original VM name appended by a date time stamp \(e.g. `Win2016-vm1 03-05 23:18:0`\). The virtual machine is then powered on. During the process, messages about the status appear in the Notifications page. The Rubrik cluster records the final result of the task in the Activity Log.
-
+The Rubrik cluster mounts the snapshot on the selected ESXi host using the original VM name appended by a date time stamp \(e.g. `Win2016-vm1 03-05 23:18:0`\). The virtual machine is then powered on. During the process, messages about the status appear in the Notifications page. The Rubrik cluster records the final result of the task in the Activity Log.
 
 On the left-side menu, click **Live Mounts** &gt; **vSphere VMs**.
 

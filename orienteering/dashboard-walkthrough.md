@@ -20,9 +20,9 @@ Once authenticated, the Rubrik UI will default to the **Dashboard** page.
 
 Let’s explore the various Dashboard panes.
 
-   The **vSphere VMs** pane provides a high-level overview of how many vSphere objects are protected by an SLA Domain.
+The **vSphere VMs** pane provides a high-level overview of how many vSphere objects are protected by an SLA Domain.
 
-   Click on **vSphere VMs** to display the dropdown box that allows you to view a protection overview by workload type.
+Click on **vSphere VMs** to display the dropdown box that allows you to view a protection overview by workload type.
 
 ![](https://lh5.googleusercontent.com/Nc1YHuVPQXR5naz5-CiAIpvaSKS6pFBH96NcMUS0i9FGRdEeeU60QPvU9RQ1HQO3tzICzektb-x5lltui5D2dHxWpxy2FBrjQY4x7H5VPufx005DsDeQU2NMmPPwJ8Pn8GWSS8DW)
 
@@ -30,7 +30,7 @@ Let’s explore the various Dashboard panes.
 
 ![](https://lh4.googleusercontent.com/hqJ8GXC-mWa96Hr-JHVosVCPC6m7xXReyhA-WgLMSqyP0Xi_mQkgXHGeQWnTLMNXdLdBi5zIbV-yWlQEgDcswJbvHfkubmgRcwNlnWr9mr5gaKAkfsH_iUF08hP4Q5DE5l6yIubP)
 
- **Activity** pane lists all currently and recently completed tasks.
+**Activity** pane lists all currently and recently completed tasks.
 
 ![](https://lh3.googleusercontent.com/_wEQ3eA3ZcKxRuV5Wu21iaUbt_3fAIgnsNgVWDbsKPFH_W3vHWEUwyvjLUG0ol_yyEe9g5mIXeqUezB4FA0DyTQZLCEOWkmPtFySQPPwCr_H3u_nKViPk7ingkxS9dkmokhfX_Oi)
 

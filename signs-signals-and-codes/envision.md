@@ -9,7 +9,7 @@ You can explore Envision in two formats:
 
 In the **Reports Summary** you can view or create individual reports in the Daily Protection Tasks by Status, SLA Compliance, Local Snapshot Storage, System Capacity, or Weekly Protection Tasks by SLA Domain sections. Let’s explore that section:
 
-In the Rubrik UI, in the left-hand pane, select **Reports** &gt; **Summary**.
+In the Rubrik UI, in the left-hand pane, select **Reports** &gt; **Summary**. 
 
 The Protection Tasks Details page appears.
 
@@ -37,7 +37,7 @@ Now select **Filter SLA Domain** and select the Gold SLA Domain to view.
 
 Now click **Gallery** on the left-side menu under Reports and the Reports Gallery appears.
 
-Click the **Create Report** button in the right-side top corner.
+Click the **Create Report** button in the right-side top corner. 
 
 ![](https://lh4.googleusercontent.com/ENmurcnUXC9Esfx0teqVRR6qPA6qbabcO-llF_YAuMUQDS95ZLmpMmXQnZfCt7ClZEeA8tJQ2exSk6Rud7S2BcUvyHu8JpOjpd61urR4Scx9imyvIwOkWlbCghisljD9ie0emeJu)
 
@@ -74,4 +74,5 @@ Select the following items to create a Daily Backup Administrator Report. You wi
 | Date | Past 24 hours |
 | Task Status, Task Type, SLA Domain, Object Type, Object Name, Location, Cluster Location | none |
 
-Observe the report once it has been generated (note that it could take a few moments to generate).
+Observe the report once it has been generated \(note that it could take a few moments to generate\).
+

@@ -12,7 +12,7 @@ Select **Clusters/Hosts**. The Clusters/Hosts tab appears.
 
 Select the checkbox in front of the vCenter Server.
 
-   Notice that the **Manage Protection** button in the upper right-hand corner illuminates and is now clickable. Do not assign an SLA Domain at this time.
+Notice that the **Manage Protection** button in the upper right-hand corner illuminates and is now clickable. Do not assign an SLA Domain at this time.
 
 ![](https://lh5.googleusercontent.com/1oIEr_S00EnfMThpnmkvJqXA9fsdbmL6w-oCb7lGlTOiL5vs3l6QxOpUg39V-wz8iPCvjbpFwKR0FgX9ZiLY3-XXW_qmqfMUyDuHb_nd2-ElMor86RLUHewwn8wb4vU87bzYkcwm)
 

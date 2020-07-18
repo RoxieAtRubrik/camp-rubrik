@@ -25,7 +25,7 @@ Click **Try it out!**
 
 ![](https://lh3.googleusercontent.com/J2he6_nPK9oXcBzROZjr878u644XcIAyZvH7T39ZMMOGd5upkaThhgy9ZSJISfIQRosazBPE5DznCRnKQSZq4TJNs4ATOsGZZuRlw2HAxy-87vivYaTeh4tWSob46dY09k7CRsdw)
 
-Notice the **Response Body**. should be at least one response for Gold. This details the configuration of the Gold SLA Domain. If you scroll down you can even determine how many and what type of machines are protected by the Gold SLA.
+Notice the **Response Body**. There should be at least one response for Gold. This details the configuration of the Gold SLA Domain. If you scroll down you can even determine how many and what type of machines are protected by the Gold SLA.
 
 ![](https://lh6.googleusercontent.com/gguoqMg5wnFT7GlPFDZc8LusZcsC2um_hwup-tON9emATXpIreuBfD7SM8XKnqNSYuSfSJq-fU282H5HvSujk7Vmazi4ODRfNABnMRBRdfcyOZR6CuebRTrnbBVJNcpaqI1LQcPa)
 

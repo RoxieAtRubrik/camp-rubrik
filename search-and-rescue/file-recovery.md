@@ -50,7 +50,7 @@ Click on the `C:\Windows\System32\drivers\etc\hosts`. On the window that appears
 
 Choose **Download**.
 
-   This may take a few moments. Click on the globe icon in the top right corner of the Rubrik UI to review the notification informing you that the file is ready to download. Click on the “Download link” message.
+This may take a few moments. Click on the globe icon in the top right corner of the Rubrik UI to review the notification informing you that the file is ready to download. Click on the “Download link” message.
 
 ![](https://lh6.googleusercontent.com/ayiuwKnpAUJ07ier3xOBR4-DbDOElRnHgytichIabT8xT5qIuzMlGRWojcc1HBBamYb3UT_YmhD4WdfC41xiqf8urd6XJARbVzUw2OuPzAD2aQqgrPegSwPyXtZxVVbegibGAUTj)
 

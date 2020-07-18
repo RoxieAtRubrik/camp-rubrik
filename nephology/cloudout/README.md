@@ -6,7 +6,7 @@ Rubrik supports a number archival location types, including:
 
 * Amazon S3
 * Amazon Glacier
-* Google Cloud Platform
+* Google Cloud Platform 
 * Azure
 * Object Store
 * NFS

@@ -52,7 +52,6 @@ Click **Mount**.
 
 The Rubrik cluster shares the Live Mount over the SMB/CIFS protocol and automatically sets the protection state of the new database to **Do Not Protect**. This ensures the Rubrik cluster does not backup data stored on itself. The Rubrik cluster then mounts the share to the specified Windows Server host and attaches the Live Mount database to the specified SQL Server instance.
 
-
 On the left-side menu of the web UI, click **Live Mounts** &gt; **SQL Server DBs**. The SQL Server DB Live Mounts page appears. Wait until the **Status** changes to **Available**. This may take approximately one minute.
 
 ![](https://lh6.googleusercontent.com/K_MSwq0KSQE72exCFNw49IYzTm1CUrzQsWBOi4YXK5Jd0lPP3M2xZtKqH5RnXxNxcccWsKOjrK-k-d5TMK2BIA2MAc-NUGuYl93HKvII5ZEj8EWfOBUTzTKeNLLnoCeZHpCSFFSb)
@@ -73,7 +72,7 @@ In the left-hand column, expand the **Instance name** &gt; **Databases**. The Li
 
 ![](https://lh4.googleusercontent.com/zrBKIBLoZFSrWImdcLwWvA-4yAJ4-rTWVj_RWRtuVkJDv8t7L6sAGlV2FqtQHWOyNarejidGcJs1zf2BhH_IrcGa4J_Ex9pw93i8rFkP8MWfl1uk8KuvyrBQUQ3wlJeDvSPTDQbA)
 
-Minimize the SQL Server RDP window and return to the Rubrik UI tab.
+Minimize the SQL Server RDP window and return to the Rubrik UI tab. 
 
 On the SQL Server DB Live Mounts page and open the ellipsis \(`...`\) menu next to the entry for your Live Mount database and select **Unmount**. A confirmation message appears.
 

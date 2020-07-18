@@ -8,7 +8,9 @@ The Settings menu appears.
 
 ![](https://lh4.googleusercontent.com/08KEhZ0Zetym-uy2L-_qqJn2PPrxZFBfyciZf0fLO6b36GSiENyhrIrDovsV54TTCQ_-iD7fsY2VIXChk5_N-b1XYotEGfzesEpZ5ZTyRaxd9t0cu4UFk3rjtr7lwZzGxx7_Stpb)
 
-From the **Settings** menu, select **Archival Locations**. The Archival Locations page appears.
+From the **Settings** menu, select **Archival Locations**.
+
+The Archival Locations page appears.
 
 Click the blue **+** icon.
 
@@ -18,7 +20,7 @@ The Add Archival Location dialog box appears.
 
 In **Archival Type**, select **Amazon S3**.
 
-   The Amazon S3 archival location fields appear.
+The Amazon S3 archival location fields appear.
 
 ![](https://lh4.googleusercontent.com/Ak9OJxHytOrnOnP_Ezrx3JRB0yo2xlGMduc_bYIf1uL-vvdwTmIN54tHeis-JTgpomEgEsFiMyhlbR6q48u6PjgrGlQIJs-Nvd3GWZtxJo3e3wvgSYauRoTPLauG3FiCgu-pQIKP)
 
@@ -30,9 +32,9 @@ On the left pane of the web UI, select **SLA Domains** &gt; **Local Domains**. T
 
 Select the Camp Rubrik SLA Domain that you previously created. The SLA Domain page will load. 
 
-Click the ellipses \(`...`\) at the top right corner of the SLA Domain page. Select **Edit**.
+Click the ellipses \(`...`\) at the top right corner of the SLA Domain page. Select **Edit**.                                             
 
-Click **Configure Remote Settings** at the bottom of the dialog \(depending on the resolution of your screen it may be necessary to scroll down\).
+Click **Configure Remote Settings** at the bottom of the dialog \(depending on the resolution of your screen it may be necessary to scroll down\).                                                 
 
 In Archival, click the toggle \(if not already done\). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
 

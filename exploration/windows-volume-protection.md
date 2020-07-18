@@ -67,7 +67,7 @@ On the left-side menu, click **Live Mounts** &gt; **Windows Volumes**. Hover ove
 
 ![](https://lh5.googleusercontent.com/yTYh4ce4B6ior5vgOxvm9Z-gi8QXtsJIOZRks-3E_fZPfSdOxsDslFsE2CsubV89tkTY62Hr3av0x5JCp_MO03HCmtFLz4Lv2jHOw5Xu7YA5dp2nm9YN4PNVkJcx7UE4wEpRb7LA)
 
-Open the Windows File Explorer application on JumpPaste the contents of the Clipboard in the Navigation window of File Explorer and press **Enter**.
+Open the Windows File Explorer application on Jump1. Paste the contents of the Clipboard in the Navigation window of File Explorer and press **Enter**.
 
 ![](https://lh3.googleusercontent.com/ymNwyDQiCuagxDbjkdnHLhPq-hzlecB6SW3bpP6H48T-MOctkEPDoGXRN0r3ZjMLjCvY3ER5bDTADZNMoH_cH8Y62WdLbOjx507J9IKkstgbtBKNaszvkGJHi0EV4oWWibYz4biT)
 
