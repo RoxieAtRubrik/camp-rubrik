@@ -2,7 +2,7 @@
 
 To use the Rubrik API Explorer:
 
-Open a new tab in your web browser and navigate to the Rubrik API Explorer bookmark \(bookmarked in the Chrome web browser\).
+Open a new tab in your web browser and navigate to the Rubrik API Explorer bookmark (bookmarked in the Chrome web browser).
 
 ![](https://lh6.googleusercontent.com/zRWnqho163c29Qrui5nFqPH1E7VMuaevlESLE-GlToGaqHqHDUJiOIr7Ue-Cdd9k8B9d1ixGupmClG65Wi24HVeRa5FmL_ZDpblQkebPsye8XFPMJtR7OoiJRFRfC6ZWhu1evy_I)
 
@@ -28,4 +28,3 @@ Click **Try it out!**
 Notice the **Response Body**. There should be at least one response for Gold. This details the configuration of the Gold SLA Domain. If you scroll down you can even determine how many and what type of machines are protected by the Gold SLA.
 
 ![](https://lh6.googleusercontent.com/gguoqMg5wnFT7GlPFDZc8LusZcsC2um_hwup-tON9emATXpIreuBfD7SM8XKnqNSYuSfSJq-fU282H5HvSujk7Vmazi4ODRfNABnMRBRdfcyOZR6CuebRTrnbBVJNcpaqI1LQcPa)
-

@@ -19,4 +19,3 @@ Scroll through and determine any recent warnings or failures that may require yo
 Take note of the status, name, message, and date/time stamp of any tasks that require further investigation.
 
 You have now completed the Signs, Signals & Codes badge!
-

@@ -2,7 +2,7 @@
 
 To create an SLA Domain:
 
-On the left-hand navigation pane, select **SLA Domains &gt; Local Domains**.
+On the left-hand navigation pane, select **SLA Domains > Local Domains**.
 
 {% hint style="info" %}
 **Trail Map:** 
@@ -17,8 +17,6 @@ In the upper right-hand corner, click the blue **+** icon.
 ![](https://lh4.googleusercontent.com/3sUakfW2pyi4sbK7jPO6I5gx2FOVMMtNtVwntVkJWxYsxFMfgvPqy1ICKerrOi-Ejbbjut692cfmizq_zTsviRh8f2dJz0IgEMI7iJI_WXiGCBmW13ZjJxJWPc3Rgl2vN0Hmm4zH)
 
 Create an SLA Policy using the same configuration values demonstrated in the following image:
-
-
 
 ![](https://lh3.googleusercontent.com/xe-wwKgu_0bZ_E6LWHaJujIzuKqY1oO1eXvPQZymusbKEM8GkbYJ2i73aLj01Fk65mxOlDPTqBAbboN-M6zIoqIaqxZ9-4tnix-aR6GIJQMxx9zbCMiX0Aio8K-zNTWjry-v5nbA)
 
@@ -35,4 +33,3 @@ Enable the **Archival** toggle and select `NFS:myarchive` from the dropdown box.
 ![](https://lh5.googleusercontent.com/m--dYrP3FukQSOFILFpMC3prYCgLzEA4R6aYCLyG5pLnaQPI6eosoQ8QKteiXLmsFSp0Lc9jCwKa_oA60PO5MWUg2djKgDZWZKtxEAdPkhr_Cq6QGciZyBBm21N5euN0l8b2gRk4)
 
 Review and then click **Create** to finish.
-

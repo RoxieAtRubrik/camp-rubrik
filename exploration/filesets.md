@@ -4,7 +4,7 @@ A fileset defines a set of files and folders on a Linux host, a Windows host, or
 
 To create a fileset:
 
-In the Rubrik UI, on the left-side menu, click **Servers & Apps** &gt; **Windows Hosts**. The Windows Hosts page appears.
+In the Rubrik UI, on the left-side menu, click **Servers & Apps** > **Windows Hosts**. The Windows Hosts page appears.
 
 Select **Filesets** and then **Add Fileset**.
 
@@ -33,4 +33,3 @@ Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in 
 Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
 
 A host or share can be paired with several different filesets, with each host fileset or share fileset protecting a different set of data. Each of the host filesets or share filesets can be assigned to a different SLA Domain, permitting different levels of protection for each set of data.
-

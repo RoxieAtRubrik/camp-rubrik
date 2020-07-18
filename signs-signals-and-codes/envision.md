@@ -52,7 +52,7 @@ There are several different combinations of reports that you can create to provi
 * Data Reduction Summary - Last 30 Days
 * Average Job Durations - Last 7 Days
 * System Capacity by Object Type - Last 30 Days
-* Daily Backup Administrator Report \(You will create this one\)
+* Daily Backup Administrator Report (You will create this one)
 * Daily DBA Report
 
 Select the following items to create a Daily Backup Administrator Report. You will need to click Next to get to each new report.
@@ -74,5 +74,4 @@ Select the following items to create a Daily Backup Administrator Report. You wi
 | Date | Past 24 hours |
 | Task Status, Task Type, SLA Domain, Object Type, Object Name, Location, Cluster Location | none |
 
-Observe the report once it has been generated \(note that it could take a few moments to generate\).
-
+Observe the report once it has been generated (note that it could take a few moments to generate).

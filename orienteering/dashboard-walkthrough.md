@@ -7,7 +7,7 @@ Once you have accessed the Camp Rubrik lab environment, select the **Jump1** Hos
 * Username: `demo@rubrik.lab`
 * Password: `Welcome10!`
 
-Open up the web browser \(Chrome\) and select the shortcut for the Rubrik UI. Login using the following credentials:
+Open up the web browser (Chrome) and select the shortcut for the Rubrik UI. Login using the following credentials:
 
 * Username: `admin`
 * Password: `Welcome10!Rubrik`
@@ -45,4 +45,3 @@ At the bottom, you are able to get a quick peek at the number of snapshots resid
 Looking at the bottom left of the Dashboard, select **See More** in the **System** pane. This section details the specs of the Rubrik cluster as well as some performance details.
 
 ![](https://lh5.googleusercontent.com/jZsv1J6U3yqbuYCBvKqGJJrMTlnTzqC_gQmHlXCrNP8US3F1omhC-Sr2N_NRYyctSueYOYlMKJMLsC7PdP8DK2xSNrOB2RonNyLe4MS11It8eQhN5NuNwST3UgAyvZ6Ne0ML5Yxr)
-

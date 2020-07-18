@@ -38,7 +38,7 @@ A Live Mount of a volume group can provide direct access to the volumes in the g
 
 Locate the **Snapshots** calendar view screen and find a date indicated by a green dot.  Click on the green dot to see one or more available snapshots from that date.
 
-Click on the ellipsis \(**…**\) menu and select **Mount**.  
+Click on the ellipsis (**...**) menu and select **Mount**.  
 
 ![](https://lh6.googleusercontent.com/8tCo_YfVCL61mvpwlnAoXhRmexIOzE0AcvvMRKmhmmPtbWuqTpUHZRQFDvcOnmG5HtKX4CYczc9a4A0JMcvXZZW3KkeLmhqC-xScmih5wRYIBwW_JLUZFaE68p2zNihbtFlyDBwm)
 
@@ -63,7 +63,7 @@ The process will take a few moments to complete to expose the SMB share. You can
 
 ![](https://lh5.googleusercontent.com/yEJhHIjpKbwpv-jN_aZVZ5h6Rzk2F5dBeJ8K2M83dvzfxp6-IzPICEsIcLNS4HmljzdurrJGuhy872YkqNKND1bYFI-1N1BG4fU7-P6DU4EKS-juCOdOdvxgOLnSh6yi33RcUFdM)
 
-On the left-side menu, click **Live Mounts** &gt; **Windows Volumes**. Hover over the `sql-s1.rubrik.lab` server name to view the SMB Path details. Click the SMB Path to copy the information into the Clipboard.
+On the left-side menu, click **Live Mounts** > **Windows Volumes**. Hover over the `sql-s1.rubrik.lab` server name to view the SMB Path details. Click the SMB Path to copy the information into the Clipboard.
 
 ![](https://lh5.googleusercontent.com/yTYh4ce4B6ior5vgOxvm9Z-gi8QXtsJIOZRks-3E_fZPfSdOxsDslFsE2CsubV89tkTY62Hr3av0x5JCp_MO03HCmtFLz4Lv2jHOw5Xu7YA5dp2nm9YN4PNVkJcx7UE4wEpRb7LA)
 

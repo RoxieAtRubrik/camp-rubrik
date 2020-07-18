@@ -32,15 +32,14 @@ On the left pane of the web UI, select **SLA Domains** &gt; **Local Domains**. T
 
 Select the Camp Rubrik SLA Domain that you previously created. The SLA Domain page will load. 
 
-Click the ellipses \(`...`\) at the top right corner of the SLA Domain page. Select **Edit**.                                             
+Click the ellipses (`...`) at the top right corner of the SLA Domain page. Select **Edit**.                                             
 
-Click **Configure Remote Settings** at the bottom of the dialog \(depending on the resolution of your screen it may be necessary to scroll down\).                                                 
+Click **Configure Remote Settings** at the bottom of the dialog (depending on the resolution of your screen it may be necessary to scroll down).                                                 
 
-In Archival, click the toggle \(if not already done\). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
+In Archival, click the toggle (if not already done). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
 
 ![](https://lh5.googleusercontent.com/5cNsnDgGkE20DeySY-B7DA389b9CTQEBgJSAHrUShLgAiFmCIu5hGE4wWXAOCcDO9_cFx9dKMXaNAWF4wWau7hEXjUcPlAaxuinMvMIasqXTTXS8SY1YhEyy0ycxFHaLR9-Wzquc)
 
 The Instant Archive feature can be enabled to instruct a Rubrik cluster to immediately queue a task to copy a new snapshot to a specified archival location.
 
 Press **Cancel**.
-
