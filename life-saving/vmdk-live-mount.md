@@ -2,9 +2,9 @@
 
 To mount a virtual disk:
 
-Using your assigned Windows 2016 Server \(`Win2016-vm1`\), select a snapshot by clicking on the blue dot on an available date. \(**Virtual Machines &gt; vSphere VMs**\)
+Using your assigned Windows 2016 Server (`Win2016-vm1`), select a snapshot by clicking on the blue dot on an available date. (**Virtual Machines &gt; vSphere VMs**)
 
-Open the ellipsis \(`...`\) menu for the snapshot date chosen.
+Open the ellipsis (`...`) menu for the snapshot date chosen.
 
 Choose **Mount Virtual Disks**.
 
@@ -43,13 +43,12 @@ If you don’t see a `vol2`, you may need to refresh the disks. If needed, selec
 
 This VMDK has been mounted as part of the recovery process.
 
-Return to Windows Explorer and verify that the new `E:\` drive \(`vol2`\) has appeared.
+Return to Windows Explorer and verify that the new `E:\` drive (`vol2`) has appeared.
 
 Navigate to the `E:\logos` folder on the disk and verify the Rubrik logos exist.
 
-Return to the Rubrik UI and navigate to **Live Mounts** &gt; **vSphere VMs**, select the ellipsis \(`...`\) menu choose **Unmount**. Confirm the unmount.
+Return to the Rubrik UI and navigate to **Live Mounts** &gt; **vSphere VMs**, select the ellipsis (`...`) menu choose **Unmount**. Confirm the unmount.
 
 ![](https://lh3.googleusercontent.com/zJCP7LU-ZvhXrH3XP7dMPxQjhNDQSm6t7CIiSExyquuY_3mCuvFh8v7szSOu7TvCs9nMMmq-5M15lO_4XEpRzub7r_r14jSq-r7h3YzmecX4EAxX6uTFgSm_jw_-RvSYHJIeo0BX)
 
 You have now completed the Life-Saving badge!
-

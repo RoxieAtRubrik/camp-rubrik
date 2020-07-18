@@ -10,5 +10,4 @@ Backups are one of the most – if not the most – important defense against ra
 
 ## **Getting Started**
 
-As you type your query, Rubrik expedites the query by displaying suggested search results with auto-complete functionality. The user can instantly locate specific versions of files across time and locations for all VMs, applications, and file systems - no matter where the data resides \(on-premises or in the cloud\).
-
+As you type your query, Rubrik expedites the query by displaying suggested search results with auto-complete functionality. The user can instantly locate specific versions of files across time and locations for all VMs, applications, and file systems - no matter where the data resides (on-premises or in the cloud).

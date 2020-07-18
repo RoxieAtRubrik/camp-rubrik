@@ -4,7 +4,7 @@ The System page is where you can see various hardware and storage metrics at a g
 
 In the Rubrik UI, in the left-hand pane, click **System**.
 
-Note the resource configurations for the entire cluster: \# of nodes, cores, memory, and more.
+Note the resource configurations for the entire cluster: # of nodes, cores, memory, and more.
 
 ![](https://lh5.googleusercontent.com/bTfgTFdYjLbpbKIGiMbRcy1bzdbAxzodDeAx752uPoezDqbCvzgdgs-KnSFPDY6wU6nHbp2y1APx5KHTY5UfuBVw30W-Rknq-6bZglPZn6fMs4H6euIOi2p28tqRTbT-iXeaAMpr)
 

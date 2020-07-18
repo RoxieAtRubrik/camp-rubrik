@@ -11,7 +11,7 @@ Rubrik radically simplifies the recovery process of virtual machines to deliver 
 
 ## Getting Started
 
-By serving as an online repository for VM data during the recovery process, Rubrik eliminates the requirement to transfer data before recovery can begin. Live Mount provides a near-zero Recovery Time Objective \(RTO\).
+By serving as an online repository for VM data during the recovery process, Rubrik eliminates the requirement to transfer data before recovery can begin. Live Mount provides a near-zero Recovery Time Objective (RTO).
 
 {% hint style="info" %}
 **Trail Map:** 
@@ -24,4 +24,3 @@ _Instant Recovery_ - replaces the source virtual machine with a fully functional
 
 _Export_ - creates a new virtual machine from a point-in-time copy of the source virtual machine. The datastore of the selected Hyper-V host is the datastore for the recovered virtual machine. The Rubrik cluster assigns a new name to the recovered virtual machine and powers it up.
 {% endhint %}
-

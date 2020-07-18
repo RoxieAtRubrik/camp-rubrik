@@ -13,4 +13,3 @@ SLA Domains represent an easy-to-configure container for data protection policie
 | Archiving | Directs the Rubrik cluster to move snapshot and backup data to a separate data storage system for long-term retention. |
 
 Rubrik provides Gold, Silver, and Bronze SLA Domains by default for your immediate use. Custom SLA Domains can be quickly and easily created to meet the data protection and retention requirements of different groups of virtual machines, applications, and file system hosts.
-
