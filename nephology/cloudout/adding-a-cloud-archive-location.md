@@ -28,13 +28,13 @@ Review the different inputs required for Amazon S3 as an archive. Feel free to b
 
 Press **Cancel** when finished.
 
-On the left pane of the web UI, select **SLA Domains** &gt; **Local Domains**. The Local SLA Domains page appears.
+On the left pane of the web UI, select **SLA Domains** > **Local Domains**. The Local SLA Domains page appears.
 
 Select the Camp Rubrik SLA Domain that you previously created. The SLA Domain page will load. 
 
 Click the ellipses (`...`) at the top right corner of the SLA Domain page. Select **Edit**.                                             
 
-Click **Configure Remote Settings** at the bottom of the dialog (depending on the resolution of your screen it may be necessary to scroll down).                                                 
+Click **Next** to view the **Set Archiving and Replication** pane.                                                 
 
 In Archival, click the toggle (if not already done). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
 
