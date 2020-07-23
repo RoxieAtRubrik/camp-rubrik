@@ -36,7 +36,7 @@ Click the ellipses (`...`) at the top right corner of the SLA Domain page. Selec
 
 Click **Next** to view the **Set Archiving and Replication** pane.                                                 
 
-In Archival, click the toggle (if not already done). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
+In Archiving, click the toggle (if not already done). Notice the **Enable Instant Archive** option. Do not select it at this time although you can click the circled “`i`” to read what it does.
 
 ![](https://lh5.googleusercontent.com/5cNsnDgGkE20DeySY-B7DA389b9CTQEBgJSAHrUShLgAiFmCIu5hGE4wWXAOCcDO9_cFx9dKMXaNAWF4wWau7hEXjUcPlAaxuinMvMIasqXTTXS8SY1YhEyy0ycxFHaLR9-Wzquc)
 
