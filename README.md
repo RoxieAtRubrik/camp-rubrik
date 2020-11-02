@@ -1,6 +1,6 @@
 # Camp Rubrik Lab Guide
 
-![](https://lh6.googleusercontent.com/DycwjKXU9rnY3xvKSUMS8rxnJv3Y1j_MEUlFnJGBDj2crA_Jo4NwTim-fM1MF9GDFWrVwyU5yZPyve6f7Cehi2VqaC7ocu_rAneW_MaloYjYKOOlgfjkZNXQekTpEXKq5Nsox4j9)
+![](images/image1.png)
 
 ## Introduction to Camp Activities
 
