@@ -1,6 +1,8 @@
 # Camp Rubrik Lab Guide
 
-![](images/image1.png){:class="img-responsive"}
+<p align="center">
+<img src="images/image1.png" width="300">
+</p>
 
 ## Introduction to Camp Activities
 
