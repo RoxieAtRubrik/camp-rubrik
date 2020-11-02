@@ -8,7 +8,9 @@ In the Rubrik UI, on the left-side menu, click **Servers & Apps** > **Windows Ho
 
 Select **Filesets** and then **Add Fileset**.
 
-![](https://lh3.googleusercontent.com/y1Z9Nr0GFjEFZoVvc7WrgTCJk6zIeSp4_pbf8vWVp7o-Tl6qz52IqxF7AeJM-NEnS39TIbwVjsX0yVmTfGMW9_w14g1YAOhWl9tfpFFK_HTImmwkQ0nl7qqXg29cCxKzsAwIGtoM)
+<p align="center">
+<img src="../images/image43.png">
+</p>
 
 The Add Fileset dialog appears. Enter the following values:
 
@@ -18,17 +20,23 @@ The Add Fileset dialog appears. Enter the following values:
 
 The fileset should resemble the following image.
 
-![](https://lh6.googleusercontent.com/x2hWBEAek1xFqEctqZAAfyLp1UvudfE1sCabH_ebatW4X6EJCU3DV4GVTbKRulSUVq6R1-CwvOG2KI5fMwO63Nprtvt7BexIOx3ZMK6O0D6DWjfHxfGXyzVMdijEjBoN_sJc7yHZ)
+<p align="center">
+<img src="../images/image44.png">
+</p>
 
 Click **Add**.
 
 Return to the **Windows Hosts** tab, select the `sql-s1` workload, and then choose **Manage Protection**.
 
-![](https://lh4.googleusercontent.com/HLjhF3QxzeAeu_1M6c72laBni59K26gCGQaBzW4GeBQoKshyGIzhSO0vaFxQ_QzrlTUlC_6tRk5FeHTxVT1XFeoIetCIsjbJklY7GPC1DzxAqluBp-i7mcMsZBfUDjXo5RU2RqpE)
+<p align="center">
+<img src="../images/image45.png">
+</p>
 
 Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step. 
 
-![](https://lh6.googleusercontent.com/0D_Hf8H0-_jm8Rl5gpqJ8pt1cOwpw8_0rveQ-2vSvti_4NtVS_4Y3yN-5r-dkaerj8PbBDkprWe2apuMHx-VMXyuvizI_Pf2lArwlJic4ZLgq3BKdcr6r7wN83ZNjQURj5jeAfHT)
+<p align="center">
+<img src="../images/image46.png">
+</p>
 
 Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
 
