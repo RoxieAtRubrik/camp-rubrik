@@ -41,23 +41,23 @@ Click on **vSphere VMs** to display the dropdown box that allows you to view a p
 **Activity** pane lists all currently and recently completed tasks.
 
 <p align="center">
-<img src="../images/image7.png">
+<img src="../images/image6.png">
 </p>
 
 Towards the middle of the Dashboard screen, you can see the number of active **Live Mounts** as well as the number of **Incoming Snapshots**.
 
 <p align="center">
-<img src="../images/image8.png">
+<img src="../images/image7.png">
 </p>
 
 At the bottom, you are able to get a quick peek at the number of snapshots residing on this Rubrik cluster, percent data reduction using deduplication and compression, and amount of data archived.
 
 <p align="center">
-<img src="../images/image9.png">
+<img src="../images/image8.png">
 </p>
 
 Looking at the bottom left of the Dashboard, select **See More** in the **System** pane. This section details the specs of the Rubrik cluster as well as some performance details.
 
 <p align="center">
-<img src="../images/image10.png">
+<img src="../images/image9.png">
 </p>

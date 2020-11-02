@@ -4,17 +4,23 @@ To Live Mount a VM:
 
 Using your assigned Windows 2016 Server (`Win2016-vm1`), select a snapshot by clicking on the blue dot on an available date.
 
-![](https://lh4.googleusercontent.com/kApQvcNsksf2Tn-f12axVsiZ9Kfrqoz3avVgKyR2Nq-My8mkiBbdjw7bW4Kdl0oCFwYMXDt22MGCh-_8j9CyM5ek647gQC1_HbvAc8XA4vtj0vNh2OGysVxNunPmjFsMmV-ercU7)
+<p align="center">
+<img src="../images/image29.png">
+</p>
 
 Open the ellipsis (`...`) menu for the snapshot and choose **Mount Virtual Machine**.
 
-![](https://lh5.googleusercontent.com/vttv_iKCYcov3QXvdirSy4W1AJtltyTGvZ8Lako8mYgjnKZX094drTCF7P4_CMw8KY2NapUfbybVqDg76nGRelFCnNn9jTTlVqxiTVLw-11Pbu0Eh2HkQEUgr245YA_pKcQsElUW)
+<p align="center">
+<img src="../images/image30.png">
+</p>
 
 Choose an ESXi host for the virtual machine, expand **Advanced Settings**.
 
 Select the checkbox next to **Remove virtual network devices**. This option should be enabled when networking configurations may result in an IP address conflict.
 
-![](https://lh5.googleusercontent.com/Zr6NFegMMGkEtDmNOuhwWilhW9421_MwGEgnTAYlBmydWqvEAQY73TUXfeyRLHHup8C5Kg6Qn--VwGnCK8aRi4HbwvZlQB5fxj__CW6aC38_HaenCqvsUy2-DVfNJLFxH_dSV0oy)
+<p align="center">
+<img src="../images/image31.png">
+</p>
 
 Click **Mount**.
 
@@ -26,7 +32,9 @@ Locate your Windows virtual machine and wait for its **Status** to change to **P
 
 This may take about a minute to appear.
 
-![](https://lh3.googleusercontent.com/HTGKX8tK7k7BSDxZe58wRx2wRAS2mabiR1tLFpCo0ohIMp8sPZ3sseFDGNEJe8oIjXUZjzyRvDfzIQFFIJbpZRr1q2DRWFdtBYpEpLeTok93LsJbqG57veHMbUlJUe7svDCK2eZx)
+<p align="center">
+<img src="../images/image32.png">
+</p>
 
 Open a new tab in the web browser and navigate to the vSphere HTML shortcut URL (bookmarked in the Chrome web browser) and authenticate using the following credentials:
 
@@ -35,11 +43,15 @@ Open a new tab in the web browser and navigate to the vSphere HTML shortcut URL 
 
 Use the search function in the top center to locate `Win2016-vm1` (appended with the snapshot time/date stamp) in vCenter Server.
 
-![](https://lh3.googleusercontent.com/P53qPxKQvzJqNV_-unXB5W8ckPQoRidtJCQ6AsZbGUttNnTJRmWyJG8GrvaiFMKDUNga6BfWSa7ZC3eNfjXE38kxFOOpnqQO55itruSa8cDczaxT5sePmUpW767nzcTQnM1FrIqT)
+<p align="center">
+<img src="../images/image33.png">
+</p>
 
 On the **Summary** tab of the VM, scroll down until the **Related Objects** pane is located. Notice the **Storage** on which the VM is running. It is recommended to Storage vMotion the VM files to primary storage if it is desired to keep the VM running long-term.
 
-![](https://lh6.googleusercontent.com/i42VK5eyCUbnUJXTpvx6bWz2jj1qlZpNK7324-9XGN2r7JzuKLJcIZPKxD1wDxCbWEfIz4JgpaT9bUfPj9LQrV2TtVK5iZOhb-76X64BqWdNKHqcBhnHOT88UljckZnzCsYq2VCM)
+<p align="center">
+<img src="../images/image34.png">
+</p>
 
 Switch back to the Rubrik UI tab and navigate to **Live Mounts** > **vSphere VMs**.
 

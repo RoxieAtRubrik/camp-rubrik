@@ -16,13 +16,17 @@ On the left-side menu, click **Snapshot Management**.
 
 The data source level of the Snapshot Retention page appears.
 
-![](https://lh5.googleusercontent.com/4PBOLT7RNTsExSxCBH9n4g1FkmwYTL6V4ILD0k1yW9bRsPiTL1g0g2QHjG0bhbNCNlK69N_Pfbe__q5KmIu8X5gZIuCFzmNhmQfqclWr59gI34_RoraFy04uvJPAJ6uYP4ZEL7i7)
+<p align="center">
+<img src="../images/image61.png">
+</p>
 
 In the **Name** column, select the name of a data source.
 
 The local host page or Recovery Points card page appears.
 
-![](https://lh6.googleusercontent.com/yxUP4qMEqe0kr5TpLIzB86wk-4QJuqYR6RQqdcJ7dv_foo8kjrQKTQS1zP_tgHyg89sqp2aKFABWKi2Gg55LLijdHgTv5BD0ynyLSz4pcKLG46ogWeS_t5XfDzyXZlCRJ6rE3PEW)
+<p align="center">
+<img src="../images/image62.png">
+</p>
 
 Tasks (such as Instant Restore, Live Mount, etc.) may be conducted with the data available through the Snapshots panel. Please do not conduct any tasks against an Unmanaged Object at this time.
 

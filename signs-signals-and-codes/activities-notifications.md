@@ -6,13 +6,17 @@ In the top right hand bar of the Rubrik UI is the Activity Log world icon.
 
 Click the world icon to see all task related activity in progress and completed on the cluster.
 
-![](https://lh3.googleusercontent.com/whfoa-BbA0H3hQ_klJjc59jNhweDrt1uADYFrUrlDk9_-fXcuZOdNzlS7Hmefq__a2601B5ttOI0hhevJf_QF3X-jJFsr1nfVhGE9bMJ9TVWj1SA4OEGo2yTen8W9LXMvEiwpCI1)
+<p align="center">
+<img src="../images/image95.png">
+</p>
 
 Click **See All** and it will take you to a page with only activity details.
 
 Select **Filter by type** and choose **Backup** to view only backup related tasks.
 
-![](https://lh5.googleusercontent.com/wjIWqKoqRUCabX9Ci60-lHPfQ5YphtL64xvJ9KK49vU_MX3Q_NCfBS0vTiQk4CQcljD906OF_fqwTWkVHJuuA4M2ATiFRtB34tJeW_ne2B-qhOGvRnhzm9_TFS1kpyHexZsGZgaC)
+<p align="center">
+<img src="../images/image96.png">
+</p>
 
 Scroll through and determine any recent warnings or failures that may require your attention.
 

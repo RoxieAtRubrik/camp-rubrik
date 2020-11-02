@@ -14,11 +14,15 @@ _Remote Domain_ - an SLA Domain that was created on a Rubrik cluster other than 
 
 In the upper right-hand corner, click the blue **+** icon.
 
-![](https://lh4.googleusercontent.com/3sUakfW2pyi4sbK7jPO6I5gx2FOVMMtNtVwntVkJWxYsxFMfgvPqy1ICKerrOi-Ejbbjut692cfmizq_zTsviRh8f2dJz0IgEMI7iJI_WXiGCBmW13ZjJxJWPc3Rgl2vN0Hmm4zH)
+<p align="center">
+<img src="../../images/image10.png">
+</p>
 
 Create an SLA Policy using the same configuration values demonstrated in the following image:
 
-![](https://lh3.googleusercontent.com/xe-wwKgu_0bZ_E6LWHaJujIzuKqY1oO1eXvPQZymusbKEM8GkbYJ2i73aLj01Fk65mxOlDPTqBAbboN-M6zIoqIaqxZ9-4tnix-aR6GIJQMxx9zbCMiX0Aio8K-zNTWjry-v5nbA)
+<p align="center">
+<img src="../../images/image11.png">
+</p>
 
 {% hint style="info" %}
 **Trail Map:** Continuous Data Protection enables you to protect your high value applications, running on vSphere, with near-zero RPOs. With CDP, you can recover from local or remote points in time with near zero RPOs for recovery from the latest point in time, or per-second granularity for recovery from historical points in time.
@@ -26,10 +30,14 @@ Create an SLA Policy using the same configuration values demonstrated in the fol
 
 Select **Next** to configure replication and archive in the Remote Settings portion of the SLA Domain.
 
-![](https://lh5.googleusercontent.com/udhjYv2gNfPjQR-9f-8Eq1FIt3DTFHyFmQCs6Nyqf822H68Pcvj0L92gdY9n-4QZthF7TkHHzD3aDryuELSZG3jBtkdGeTFK90rTsFPJshL9G7q8YUs_s0JyQ96J_xlULj8fK_fS)
+<p align="center">
+<img src="../../images/image12.png">
+</p>
 
 Enable the **Archival** toggle and select `NFS:myarchive` from the dropdown box. Change **Retention On Brik** as 60 days. Note that the arrow keys can be used to fine-tune the amount of time specified. Press the **Next** button.
 
-![](https://lh5.googleusercontent.com/m--dYrP3FukQSOFILFpMC3prYCgLzEA4R6aYCLyG5pLnaQPI6eosoQ8QKteiXLmsFSp0Lc9jCwKa_oA60PO5MWUg2djKgDZWZKtxEAdPkhr_Cq6QGciZyBBm21N5euN0l8b2gRk4)
+<p align="center">
+<img src="../../images/image13.png">
+</p>
 
 Review and then click **Create** to finish.
