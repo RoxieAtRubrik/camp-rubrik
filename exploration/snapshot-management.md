@@ -16,18 +16,15 @@ On the left-side menu, click **Snapshot Management**.
 
 The data source level of the Snapshot Retention page appears.
 
-<p align="center">
-<img src="../images/image61.png">
-</p>
+![](../.gitbook/assets/image61.png)
 
 In the **Name** column, select the name of a data source.
 
 The local host page or Recovery Points card page appears.
 
-<p align="center">
-<img src="../images/image62.png">
-</p>
+![](../.gitbook/assets/image62.png)
 
-Tasks (such as Instant Restore, Live Mount, etc.) may be conducted with the data available through the Snapshots panel. Please do not conduct any tasks against an Unmanaged Object at this time.
+Tasks \(such as Instant Restore, Live Mount, etc.\) may be conducted with the data available through the Snapshots panel. Please do not conduct any tasks against an Unmanaged Object at this time.
 
 You have now completed the Exploration badge! Raise your hand so a Rubrik employee can get you the badge, answer any questions about this section, and give an overview of the next section.
+

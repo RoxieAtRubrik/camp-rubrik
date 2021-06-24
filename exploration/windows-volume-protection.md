@@ -8,65 +8,47 @@ In the Rubrik UI, on the left-side menu, click **Servers & Apps** &gt; **Windows
 
 Select the `sql-s1` workload, and then choose **Manage Protection**.
 
-<p align="center">
-<img src="../images/image47.png">
-</p>
+![](../.gitbook/assets/image47.png)
 
-Select **Volumes** as the Type and choose the `Z:\` drive. Press **Next**. 
+Select **Volumes** as the Type and choose the `Z:\` drive. Press **Next**.
 
-<p align="center">
-<img src="../images/image48.png">
-</p>
+![](../.gitbook/assets/image48.png)
 
 Select the `Camp Rubrik` SLA Domain. Press **Next**.
 
-<p align="center">
-<img src="../images/image49.png">
-</p>
+![](../.gitbook/assets/image49.png)
 
-Review the changes and press **Finish**. 
+Review the changes and press **Finish**.
 
-Click on the `sql-s1` workload to navigate to the host page. Note the Volumes and Filesets pane. Press **On-Demand Snapshot** to take a backup. 
+Click on the `sql-s1` workload to navigate to the host page. Note the Volumes and Filesets pane. Press **On-Demand Snapshot** to take a backup.
 
-<p align="center">
-<img src="../images/image50.png">
-</p>
+![](../.gitbook/assets/image50.png)
 
 The **On-Demand Snapshot** dialog appears, ensure the `Z:\`drive is selected and press **Next**.
 
-<p align="center">
-<img src="../images/image51.png">
-</p>
+![](../.gitbook/assets/image51.png)
 
-Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. Note that an on-demand snapshot can be managed by a separate policy to specify a different retention period. 
+Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. Note that an on-demand snapshot can be managed by a separate policy to specify a different retention period.
 
-Click on the globe menu in the Activity Log. The **Activities** screen reports the latest status of the snapshot operation. Select the message under Activities to review the Activity Detail. 
+Click on the globe menu in the Activity Log. The **Activities** screen reports the latest status of the snapshot operation. Select the message under Activities to review the Activity Detail.
 
-<p align="center">
-<img src="../images/image52.png">
-</p>
+![](../.gitbook/assets/image52.png)
 
 A Live Mount of a volume group can provide direct access to the volumes in the group, allowing for quick recovery. To do so:
 
-Locate the **Snapshots** calendar view screen and find a date indicated by a green dot.  Click on the green dot to see one or more available snapshots from that date.
+Locate the **Snapshots** calendar view screen and find a date indicated by a green dot. Click on the green dot to see one or more available snapshots from that date.
 
-Click on the ellipsis (**...**) menu and select **Mount**.  
+Click on the ellipsis \(**...**\) menu and select **Mount**.
 
-<p align="center">
-<img src="../images/image53.png">
-</p>
+![](../.gitbook/assets/image53.png)
 
 In the **Mount Snapshot** screen, ensure the checkbox next to the `Z:\` is selected and click **Next** to continue.
 
-<p align="center">
-<img src="../images/image54.png">
-</p>
+![](../.gitbook/assets/image54.png)
 
-Select the radio button next to **No Host**. This will expose the SMB path during the mount operation. Click **Next** to continue. 
+Select the radio button next to **No Host**. This will expose the SMB path during the mount operation. Click **Next** to continue.
 
-<p align="center">
-<img src="../images/image55.png">
-</p>
+![](../.gitbook/assets/image55.png)
 
 Enter the following information on the **SMB Configuration** screen:
 
@@ -75,30 +57,21 @@ Enter the following information on the **SMB Configuration** screen:
 * Active Directory Groups: `rubrikgroup`
 * Client IP: `10.0.2.100`
 
-<p align="center">
-<img src="../images/image56.png">
-</p>
+![](../.gitbook/assets/image56.png)
 
-The process will take a few moments to complete to expose the SMB share. You can review progress in the **Activities** pane. 
+The process will take a few moments to complete to expose the SMB share. You can review progress in the **Activities** pane.
 
-<p align="center">
-<img src="../images/image57.png">
-</p>
+![](../.gitbook/assets/image57.png)
 
-On the left-side menu, click **Live Mounts** > **Windows Volumes**. Hover over the `sql-s1.rubrik.lab` server name to view the SMB Path details. Click the SMB Path to copy the information into the Clipboard.
+On the left-side menu, click **Live Mounts** &gt; **Windows Volumes**. Hover over the `sql-s1.rubrik.lab` server name to view the SMB Path details. Click the SMB Path to copy the information into the Clipboard.
 
-<p align="center">
-<img src="../images/image58.png">
-</p>
+![](../.gitbook/assets/image58.png)
 
 Open the Windows File Explorer application on Jump1. Paste the contents of the Clipboard in the Navigation window of File Explorer and press **Enter**.
 
-<p align="center">
-<img src="../images/image59.png">
-</p>
+![](../.gitbook/assets/image59.png)
 
 In this case, notice the Live Mount has mounted the `E:\volume` as Data. There is a Files folder listed with seven files listed.
 
-<p align="center">
-<img src="../images/image60.png">
-</p>
+![](../.gitbook/assets/image60.png)
+

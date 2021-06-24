@@ -4,13 +4,11 @@ A fileset defines a set of files and folders on a Linux host, a Windows host, or
 
 To create a fileset:
 
-In the Rubrik UI, on the left-side menu, click **Servers & Apps** > **Windows Hosts**. The Windows Hosts page appears.
+In the Rubrik UI, on the left-side menu, click **Servers & Apps** &gt; **Windows Hosts**. The Windows Hosts page appears.
 
 Select **Filesets** and then **Add Fileset**.
 
-<p align="center">
-<img src="../images/image43.png">
-</p>
+![](../.gitbook/assets/image43.png)
 
 The Add Fileset dialog appears. Enter the following values:
 
@@ -20,24 +18,19 @@ The Add Fileset dialog appears. Enter the following values:
 
 The fileset should resemble the following image.
 
-<p align="center">
-<img src="../images/image44.png">
-</p>
+![](../.gitbook/assets/image44.png)
 
 Click **Add**.
 
 Return to the **Windows Hosts** tab, select the `sql-s1` workload, and then choose **Manage Protection**.
 
-<p align="center">
-<img src="../images/image45.png">
-</p>
+![](../.gitbook/assets/image45.png)
 
-Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step. 
+Select **Filesets** as the Type and choose the `Camp Rubrik Fileset` created in a previous step.
 
-<p align="center">
-<img src="../images/image46.png">
-</p>
+![](../.gitbook/assets/image46.png)
 
-Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**. 
+Press **Next** and select the `Camp Rubrik` SLA Domain. Press **Finish**.
 
 A host or share can be paired with several different filesets, with each host fileset or share fileset protecting a different set of data. Each of the host filesets or share filesets can be assigned to a different SLA Domain, permitting different levels of protection for each set of data.
+

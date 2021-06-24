@@ -2,17 +2,13 @@
 
 To use the Rubrik API Explorer:
 
-Open a new tab in your web browser and navigate to the Rubrik API Explorer bookmark (bookmarked in the Chrome web browser).
+Open a new tab in your web browser and navigate to the Rubrik API Explorer bookmark \(bookmarked in the Chrome web browser\).
 
-<p align="center">
-<img src="../images/image100.png">
-</p>
+![](../.gitbook/assets/image100.png)
 
 In the top right-hand corner, click **Authorize.**
 
-<p align="center">
-<img src="../images/image101.png">
-</p>
+![](../.gitbook/assets/image101.png)
 
 Authenticate using the following credentials:
 
@@ -21,20 +17,15 @@ Authenticate using the following credentials:
 
 Navigate to `/sla_domain` and click **Show/Hide**. Click **Get list of SLA Domains**.
 
-<p align="center">
-<img src="../images/image102.png">
-</p>
+![](../.gitbook/assets/image102.png)
 
 Under **Parameter**, enter the **Value** `Gold` for **name**.
 
 Click **Try it out!**
 
-<p align="center">
-<img src="../images/image103.png">
-</p>
+![](../.gitbook/assets/image103.png)
 
 Notice the **Response Body**. There should be at least one response for Gold. This details the configuration of the Gold SLA Domain. If you scroll down you can even determine how many and what type of machines are protected by the Gold SLA.
 
-<p align="center">
-<img src="../images/image104.png">
-</p>
+![](../.gitbook/assets/image104.png)
+

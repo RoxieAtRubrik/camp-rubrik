@@ -12,3 +12,4 @@ Rubrik supports a number archival location types, including:
 * NFS
 
 A Rubrik cluster can have multiple archival locations and types. The archival policy of an SLA Domain can only specify one archival location but each SLA Domain can specify a different archival location.
+

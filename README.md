@@ -1,8 +1,6 @@
 # Camp Rubrik Lab Guide
 
-<p align="center">
-<img src="images/image1.png" width="300">
-</p>
+![](.gitbook/assets/image1.png)
 
 ## Introduction to Camp Activities
 
