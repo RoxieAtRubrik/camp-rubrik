@@ -36,5 +36,3 @@ Click **Submit**.
 
 The VM will soon update to reflect it is protected by the selected SLA Domain.
 
-You have now completed the Orienteering badge!
-

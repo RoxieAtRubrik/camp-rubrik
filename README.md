@@ -4,7 +4,7 @@
 
 ## Introduction to Camp Activities
 
-Welcome to Camp Rubrik! We appreciate you spending time with us to see first-hand how powerful and simple Rubrik is to use. Throughout the Camp Rubrik experience, you will enjoy earning badges as each section is successfully completed.
+Welcome to Camp Rubrik! We appreciate you spending time with us to see first-hand how powerful and simple Rubrik is to use. 
 
 Today’s challenge is to see how far you can get in the lab exercises.
 
