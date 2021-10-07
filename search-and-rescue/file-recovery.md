@@ -60,5 +60,3 @@ On the window that opens, click on the download link.
 
 On your Jump1 host accessing the lab environment, browse to the **Downloads** folder to view hosts.
 
-You have now completed the Search & Rescue badge!
-

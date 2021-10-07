@@ -26,5 +26,3 @@ The local host page or Recovery Points card page appears.
 
 Tasks \(such as Instant Restore, Live Mount, etc.\) may be conducted with the data available through the Snapshots panel. Please do not conduct any tasks against an Unmanaged Object at this time.
 
-You have now completed the Exploration badge! Raise your hand so a Rubrik employee can get you the badge, answer any questions about this section, and give an overview of the next section.
-

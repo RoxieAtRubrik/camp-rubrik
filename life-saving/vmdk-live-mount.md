@@ -51,5 +51,3 @@ Return to the Rubrik UI and navigate to **Live Mounts** &gt; **vSphere VMs**, se
 
 ![](../.gitbook/assets/image42.png)
 
-You have now completed the Life-Saving badge!
-
