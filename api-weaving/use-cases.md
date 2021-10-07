@@ -14,5 +14,5 @@ The use cases for a published, open, and documented API are endless. A few commo
 [Rubrik Build](https://build.rubrik.com) is a developer portal and community where contributors can leverage existing SDKs, tools, and use cases or contribute their own ideas, code, documentation, and feedback.
 {% endhint %}
 
-You have now completed the API Weaving badge and the entire Camp Rubrik Field Guide - congratulations!
+
 
